@@ -1,0 +1,1 @@
+This project is a full-stack web application that enables users to manage student records. The application is built using Django for the backend (API) and React for the frontend. It allows users to perform basic CRUD operations (Create, Read, Update, Delete) on student records, with a smooth user interface and seamless integration between the frontend and backend.
